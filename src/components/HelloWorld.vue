@@ -3,7 +3,7 @@
   <button @click="count++">count is: {{ count }}</button>
    <div> 123</div>
   <p>Edit <code>components/HelloWorld.vue</code> to test hot module replacement.</p>
-
+  
 </template>
 
 <script>
